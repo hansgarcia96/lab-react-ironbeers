@@ -38,6 +38,7 @@ class NewBeer extends React.Component {
   render() {
     return (
       <div>
+      <h1>New Beer</h1>
         <form onSubmit={this.addNew}>
           <p>Name</p>
           <input
