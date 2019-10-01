@@ -60,7 +60,7 @@ class NewBeer extends React.Component {
             onChange={this.handleInput}
           />
 
-          <button>Submit</button>
+          <button>Submit New Beer</button>
         </form>
       </div>
     );
